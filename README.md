@@ -39,12 +39,10 @@
 ### ●	If the user follows an incorrect sequence then a pop-up will appear on the screen showing the name of the process to be selected.
 
 ## OUTPUT:
-![123_1](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ec8dafd7-cb7c-4a5b-936c-41e86a32a9da)
-![123_2](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/c071a941-e5b4-4b31-af63-5f9fe08cd0fb)
-![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
+<img width="345" alt="Screenshot 2023-12-11 151859" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/366da156-d6d9-4381-8d58-fc9dcd7801bb">
 
-## Output:
-![SCREEN SHOT 7](https://github.com/bharathganeshsivasankaran/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/119478098/bb8346b3-a5e8-460a-9764-b9ca4926094d)
+<img width="355" alt="Screenshot 2023-12-11 152036" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/95ba310a-026a-4c8b-ac58-42f337800746">
+<img width="356" alt="Screenshot 2023-12-11 152055" src="https://github.com/srishanth2006/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/150319470/8304a41f-9f0f-43e1-9759-19d384a8105c">
 
 
 ### Name:Abdul kalaam k m
